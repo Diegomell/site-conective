@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50"
+   height="50"
+   viewBox="0 0 13.229166 13.229167"
+   version="1.1"
+   id="svg27680"
+   sodipodi:docname="&gt;.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview27682"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     units="px"
+     inkscape:snap-bbox="true"
+     inkscape:zoom="7.440404"
+     inkscape:cx="39.849987"
+     inkscape:cy="30.9123"
+     inkscape:window-width="1366"
+     inkscape:window-height="696"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid27954" />
+  </sodipodi:namedview>
+  <defs
+     id="defs27677">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient28292">
+      <stop
+         style="stop-color:#2e1ee1;stop-opacity:1"
+         offset="0"
+         id="stop28288" />
+      <stop
+         style="stop-color:#1a61cb;stop-opacity:0.6906259"
+         offset="1"
+         id="stop28290" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient28292"
+       id="linearGradient28294"
+       x1="2.6458333"
+       y1="6.614583"
+       x2="8.598958"
+       y2="6.614583"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.6666667,0,0,1,10.490972,1.3333333e-7)" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:url(#linearGradient28294);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 3.4354166,10.583333 8.7270833,6.6145833 3.4354166,2.6458334"
+       id="path28149" />
+  </g>
+</svg>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="Hospedagem.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="mm"
+     showgrid="true"
+     units="px"
+     inkscape:zoom="22.627417"
+     inkscape:cx="0.39774756"
+     inkscape:cy="5.6347572"
+     inkscape:window-width="973"
+     inkscape:window-height="701"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:snap-nodes="true"
+     inkscape:object-paths="false"
+     inkscape:object-nodes="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-others="false"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid9" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.0579826;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1.6838203,3.0901828 V 2.758485 h 0.7601744 v 0.3316978 z"
+       id="path8302" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.0579826;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1.6928615,2.6819132 V 2.3502154 h 0.7601744 v 0.3316978 z"
+       id="path8459" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.0579826;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1.6896101,2.2389748 V 1.907277 h 0.7601743 v 0.3316978 z"
+       id="path8461" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.0281387;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1.5619433,1.1557118 1.1537768,1.1470452 V 2.0834864 H 1.6610947"
+       id="path9891"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.0307077;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 2.5491638,1.3128217 2.930779,1.3017765 v 1.192835 H 2.4564622"
+       id="path10162"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.0300623;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2.9428199,1.8747094 0.4069464,-0.00992 v 1.072047 L 2.4443644,2.9166624"
+       id="path10164"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.0300623;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1.1595147,1.8982625 0.75256835,1.8883461 V 2.960393 L 1.6579703,2.9402154"
+       id="path10303"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.01998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1.6906714,2.0791198 1.2783873,2.0747947 V 2.5422135 H 1.6609666"
+       id="path10305"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:0.523594px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.0436329;stroke:#ffffff;stroke-opacity:1;fill:none"
+       x="1.9141525"
+       y="1.1258283"
+       id="text12405"
+       transform="scale(0.79232086,1.2621149)"><tspan
+         sodipodi:role="line"
+         id="tspan12403"
+         style="stroke-width:0.0436329;stroke:#ffffff;stroke-opacity:1;fill:none"
+         x="1.9141525"
+         y="1.1258283">HOST</tspan></text>
+  </g>
+</svg>

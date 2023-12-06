@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="ux.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="mm"
+     showgrid="true"
+     units="px"
+     inkscape:zoom="22.627417"
+     inkscape:cx="5.6568542"
+     inkscape:cy="5.6347572"
+     inkscape:window-width="973"
+     inkscape:window-height="701"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:snap-nodes="true"
+     inkscape:object-paths="false"
+     inkscape:object-nodes="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-others="false"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid9" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.145131;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 0.7515346,2.9533012 v -1.916791 h 2.4419203 v 1.916791 z"
+       id="path13471" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.0535161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 0.75797418,1.5304853 v 0 H 3.148627 v 0"
+       id="path13563" />
+    <text
+       xml:space="preserve"
+       style="font-size:0.339603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.0283003;stroke:#ffffff;stroke-opacity:1;fill:none"
+       x="1.2672381"
+       y="1.1610847"
+       id="text15196"
+       transform="scale(0.81321421,1.2296883)"><tspan
+         sodipodi:role="line"
+         id="tspan15194"
+         style="stroke-width:0.0283003;stroke:#ffffff;stroke-opacity:1;fill:none"
+         x="1.2672381"
+         y="1.1610847">www</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.01312px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.0844267;stroke:#ffffff;stroke-opacity:1;fill:none"
+       x="1.2804363"
+       y="2.456506"
+       id="text17542"
+       transform="scale(0.94858966,1.0541966)"><tspan
+         sodipodi:role="line"
+         id="tspan17540"
+         style="stroke-width:0.0844267;stroke:#ffffff;stroke-opacity:1;fill:none"
+         x="1.2804363"
+         y="2.456506">UX</tspan></text>
+  </g>
+</svg>
